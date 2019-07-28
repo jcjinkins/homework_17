@@ -20,7 +20,7 @@ img {
 
 .card-group {
   display: grid;
-  grid-template-columns: 1fr 1fr 1fr 1fr;
+  grid-template-columns: 1fr 1fr 1fr;
   grid-gap: 16px;
   padding: 16px;
   grid-auto-rows: 1fr; // Make all the same height
